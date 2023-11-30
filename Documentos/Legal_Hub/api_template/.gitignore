@@ -1,0 +1,7 @@
+*.pyc
+*.json
+notas.txt
+__pycache__
+/env/
+.vscode/
+.env

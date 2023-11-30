@@ -1,0 +1,10 @@
+dockerfile
+Dockerfile
+*.pyc
+__pycache__
+/venv/
+/env/
+.vscode/
+/api/tests/
+Dockerfile_local
+.flaskenv
